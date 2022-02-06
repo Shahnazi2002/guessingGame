@@ -1,2 +1,0 @@
-# guessingGame
-Number Guessing Game
